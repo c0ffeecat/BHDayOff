@@ -7,7 +7,6 @@ What would I do if I had to connect to LDAP and manually discover exploitable co
 So I decided to take the time now to not just learn more about LDAP and these attacks, but to create a tool custom to myself that automates some of the "checklist" things that I look for in BloodHound.
 
 "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."
-
 \-Ferris Bueller's Day Off
 
 It's time to give BloodHound a day off.
